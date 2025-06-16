@@ -1,0 +1,32 @@
+{
+  "name": "alt-instaspot-react",
+  "version": "1.0.0",
+  "description": "A photo app",
+  "keywords": [
+    "photo"
+  ],
+  "homepage": "https://github.com/github.com/elinah254/alt-react.git#readme",
+  "bugs": {
+    "url": "https://github.com/github.com/elinah254/alt-react.git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elinah254/alt-react.git"
+  },
+  "license": "ISC",
+  "author": "Elinah Mmmbone",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.2",
+    "vite": "^6.3.5"
+  }
+}
